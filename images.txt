@@ -1,1 +1,2 @@
 trksteam/mirai-docker:latest
+java
